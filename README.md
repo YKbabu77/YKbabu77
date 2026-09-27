@@ -280,7 +280,7 @@ Individual Telegram Responses
 ### 🔗 Project Links
 
 🤖 **Try the Telegram Bot:**  
-https://t.me/ResumeAI_Analysis_bot
+ https://t.me/ResumeAI_Analyzer_bot
 
 🐙 **Source Code:**  
 https://github.com/YKbabu77/AI_ChatBot_For_Resume_Analyzer
@@ -417,7 +417,7 @@ Cloud Deployment
 |---|---|
 | 🍽️ Restaurant Management System | [Live Website](https://restaurant-management-system-xi-five.vercel.app) |
 | 🍽️ Restaurant Backend | [Backend API](https://restaurant-management-system-bf0d.onrender.com) |
-| 🤖 Resume Analyzer Bot | [Try on Telegram](https://t.me/ResumeAI_Analysis_bot) |
+| 🤖 Resume Analyzer Bot | [Try on Telegram]( https://t.me/ResumeAI_Analyzer_bot) |
 | 💻 GitHub | [YKbabu77](https://github.com/YKbabu77) |
 | 💼 LinkedIn | [Konda Babu Yepuganti](https://www.linkedin.com/in/y-kondababu) |
 
